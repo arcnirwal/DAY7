@@ -1,0 +1,18 @@
+{
+  "name": "scriptday7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexday7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Archit": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "kill-port": "^2.0.1"
+  }
+}
